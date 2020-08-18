@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi)
 [![Twitter](https://img.shields.io/twitter/follow/the_uhooi?style=social)](https://twitter.com/the_uhooi)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/uhooi/contributions.svg)](http://qiita.com/uhooi)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/followers.svg)](http://qiita.com/uhooi)
                 
