@@ -1,13 +1,13 @@
 ![Logo](https://github.com/uhooi/uhooi/blob/master/docs/theuhooi_logo_avenir_alpha.png)
 
-[![uhooi's github stats](https://github-readme-stats.vercel.app/api?username=uhooi&show_icons=true)](https://github.com/uhooi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhooi)](https://github.com/uhooi)
+[![uhooi's github stats](https://github-readme-stats.vercel.app/api?username=uhooi&show_icons=true)](https://github.com/uhooi "uhooi's github stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhooi)](https://github.com/uhooi "Top Langs")
 
-[![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi)
-[![Twitter](https://img.shields.io/twitter/follow/the_uhooi?style=social)](https://twitter.com/the_uhooi)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/uhooi/contributions.svg)](http://qiita.com/uhooi)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/followers.svg)](http://qiita.com/uhooi)
+[![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi "GitHub")
+[![Twitter](https://img.shields.io/twitter/follow/the_uhooi?style=social)](https://twitter.com/the_uhooi "Twitter")
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi "My Qiita posts")
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/uhooi/contributions.svg)](http://qiita.com/uhooi "My Qiita contributions")
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/followers.svg)](http://qiita.com/uhooi "My Qiita followers")
                 
 
 <!--
