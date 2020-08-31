@@ -3,6 +3,8 @@
 [![uhooi's github stats](https://github-readme-stats.vercel.app/api?username=uhooi&show_icons=true)](https://github.com/uhooi "uhooi's github stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhooi)](https://github.com/uhooi "Top Langs")
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=uhooi)](https://github.com/uhooi "trophy")
+
 [![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi "GitHub")
 [![Twitter](https://img.shields.io/twitter/follow/the_uhooi?style=social)](https://twitter.com/the_uhooi "Twitter")
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi "My Qiita posts")
