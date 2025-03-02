@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=uhooi)](https://github.com/uhooi "trophy")
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/uhooi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.2&b=2.85&i=4.01&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
+<a href="https://lapras.com/public/uhooi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.38&b=2.85&i=4.01&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
 <!--END_SECTION:lapras-card-->
 
 [![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi "GitHub")
